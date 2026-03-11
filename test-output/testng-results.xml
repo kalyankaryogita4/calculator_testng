@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-11T12:00:08 IST" name="CalculatorSuite" finished-at="2026-03-11T12:00:16 IST" duration-ms="7903">
+    <groups>
+    </groups>
+    <test started-at="2026-03-11T12:00:08 IST" name="CalculatorTest" finished-at="2026-03-11T12:00:16 IST" duration-ms="7903">
+      <class name="tests.CalculatorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.CalculatorTest@55b0dcab]" started-at="2026-03-11T12:00:08 IST" name="setup" finished-at="2026-03-11T12:00:15 IST" duration-ms="6803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="additionTest()[pri:0, instance:tests.CalculatorTest@55b0dcab]" started-at="2026-03-11T12:00:15 IST" name="additionTest" finished-at="2026-03-11T12:00:15 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CalculatorTest@55b0dcab]" started-at="2026-03-11T12:00:15 IST" name="closeBrowser" finished-at="2026-03-11T12:00:16 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.CalculatorTest -->
+    </test> <!-- CalculatorTest -->
+  </suite> <!-- CalculatorSuite -->
+</testng-results>
